@@ -1,3 +1,3 @@
 # chatbot_huggingface
 
-![Q&A Example](img/q&a_bot.png)
+<img src="img/q&a_bot.png" alt="Q&A Example" width="350"/>
